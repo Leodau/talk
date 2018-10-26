@@ -62,6 +62,7 @@ beforeEach(() => {
     resolvers,
     initLocalState: localRecord => {
       localRecord.setValue(assetWithDeepestReplies.id, "assetID");
+      localRecord.setValue(true, "loggedIn");
     },
   }));
 });

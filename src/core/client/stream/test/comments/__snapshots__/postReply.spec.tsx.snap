@@ -27,7 +27,9 @@ exports[`post a reply: open reply form 1`] = `
         role="tab"
         type="button"
       >
-        ⁨2⁩ ⁨Comments⁩
+        <span>
+          ⁨2⁩ Comments
+        </span>
       </button>
     </li>
     <li
@@ -49,7 +51,9 @@ exports[`post a reply: open reply form 1`] = `
         role="tab"
         type="button"
       >
-        My Profile
+        <span>
+          My Profile
+        </span>
       </button>
     </li>
   </ul>
@@ -651,7 +655,9 @@ exports[`post a reply: optimistic response 1`] = `
         role="tab"
         type="button"
       >
-        ⁨3⁩ ⁨Comments⁩
+        <span>
+          ⁨3⁩ Comments
+        </span>
       </button>
     </li>
     <li
@@ -673,7 +679,9 @@ exports[`post a reply: optimistic response 1`] = `
         role="tab"
         type="button"
       >
-        My Profile
+        <span>
+          My Profile
+        </span>
       </button>
     </li>
   </ul>
@@ -1417,7 +1425,9 @@ exports[`post a reply: server response 1`] = `
         role="tab"
         type="button"
       >
-        ⁨3⁩ ⁨Comments⁩
+        <span>
+          ⁨3⁩ Comments
+        </span>
       </button>
     </li>
     <li
@@ -1439,7 +1449,9 @@ exports[`post a reply: server response 1`] = `
         role="tab"
         type="button"
       >
-        My Profile
+        <span>
+          My Profile
+        </span>
       </button>
     </li>
   </ul>
@@ -2046,7 +2058,9 @@ exports[`renders comment stream 1`] = `
         role="tab"
         type="button"
       >
-        ⁨2⁩ ⁨Comments⁩
+        <span>
+          ⁨2⁩ Comments
+        </span>
       </button>
     </li>
     <li
@@ -2068,7 +2082,9 @@ exports[`renders comment stream 1`] = `
         role="tab"
         type="button"
       >
-        My Profile
+        <span>
+          My Profile
+        </span>
       </button>
     </li>
   </ul>
